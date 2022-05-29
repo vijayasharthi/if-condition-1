@@ -7,4 +7,3 @@ for i in range(d):
     c=a+b
     print(c, end="  ")
     a, b= b, c
-# Easy code
